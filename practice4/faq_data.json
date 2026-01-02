@@ -1,0 +1,26 @@
+[
+    {
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, click 'Forgot Password' on the login page and follow the instructions."
+    },
+    {
+        "question": "What are your business hours?",
+        "answer": "Our business hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "question": "Where is your office located?",
+        "answer": "Our office is located at 123 Main Street, Anytown, USA."
+    },
+    {
+        "question": "How do I contact support?",
+        "answer": "You can contact support via email at support@example.com or call 1-800-123-4567."
+    },
+    {
+        "question": "What is your return policy?",
+        "answer": "You can return most items within 30 days for a full refund. See our return policy for details."
+    },
+    {
+        "question": "What is your selling policy?",
+        "answer": "You can selling most items within 60 days for a full refund. See our return policy for details."
+    }
+]
