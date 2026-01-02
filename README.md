@@ -26,3 +26,8 @@ Basic task with openAPI key AI
 
 ## Practice5 ##
 - Developed the script for predict the next word using OpenAPI key
+
+## Practice6 ##
+- Developed the scripts for image genration based on prompt.
+- Developed two different script as one with fixed prompt and another is we can generate image with dyanmic prompt.
+- And saved locally
