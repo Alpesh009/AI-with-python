@@ -13,3 +13,12 @@ Basic task with openAPI key AI
 - Its generally understood the concept of **RAG**.
 - I have stored some content in array and its converting text in embedding then return the closet matching text.
 - Its embeded the text and store to particular file and geneated it.
+
+## Practice4 ##
+**Program 1:**
+- Chatbot work according stored the question and answers locally / array
+- and mtach the content with data and return it with closet match text.
+**Program 2:**
+- Chatbot work according stored the question and answers from external json file.
+- and mtach the content with data and return it with closet match text.
+- uploaded the json file in code, if want to check.
